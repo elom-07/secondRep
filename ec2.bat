@@ -1,0 +1,1 @@
+aws ec2 run-instances --image-id ami-0d28bf0201017ce45 --count 1 --instance-type t2.micro --key-name elom --security-groups elom --region us west 2
